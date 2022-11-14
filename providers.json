@@ -1,0 +1,18 @@
+{
+    "providers": [
+      {
+        "id": "1",
+        "name": "Scottish Widows",
+        "loginURL": "https://personal.secure.scottishwidows.co.uk/login/",
+        "imageURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/83/8b/8f/838b8f08-b5dd-6ac3-45c3-e78a9b445969/source/512x512bb.jpg",
+        "colorHex": "#0000FF"
+      },
+      {
+        "id": "2",
+        "name": "Royal London",
+        "loginURL": "https://login.royallondon.com/Account/Login",
+        "imageURL": "https://play-lh.googleusercontent.com/VGgn0FRSeXqvUcCaDzoFpdk85-1mxFUI261awZwSJ8v6l03P-jtGC11VpKKR6CcrtGY=s96",
+        "colorHex": "#6D3583"
+      }
+    ]
+}
